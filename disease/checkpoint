@@ -1,0 +1,2 @@
+model_checkpoint_path: " C:\Users\sheka\OneDrive\Desktop\Project_code\disease\trained-0.0001-cnn.model"
+all_model_checkpoint_paths: " C:\Users\sheka\OneDrive\Desktop\Project_code\disease\trained-0.0001-cnn.model"
